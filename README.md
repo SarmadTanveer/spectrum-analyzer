@@ -20,6 +20,6 @@ I have always been mesmerized by lights synced to music. I had always wanted to 
   * A couple of capacitors, resistors and diodes and switches
     * This was mainly to filter any noise in the power supply and data lines and general circuit protection
 ## The Result 
-  
+  ![Result](/docs/Result.gif)
 ## Thoughts
    When I have a bit more time, I intend on taking this from a basic spectrum analyzer with vertical bars to creating some cool arbitrary patterns that react to music. Adding        support for mode switching and even eliminate the DFRobot module entirely by using FFT algorithms. I also intend on writing a complete tutorial. Feel free to visit the repo,      critique my code, fork the project and improve it.    
