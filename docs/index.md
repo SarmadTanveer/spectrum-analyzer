@@ -6,12 +6,12 @@ I have always been mesmerized by lights synced to music. I had always wanted to 
 
 ## Design and Implementation
 
-  ### Block Diagram 
+### Block Diagram 
   
   The following diagram outlines a very simple model for the overall system design without any specific implementation details.
   ![System Diagram](Block-diagram.png)
     
-  ### Parts List
+### Parts List
   
   * DFRobot Audio Analyzer Module 
     * This module splits any income signal into 7 freqeuncy bands and peak detects each band using the MSGEQ7 graphic equalizer display filter. The output is a multiplexed               analog signal
