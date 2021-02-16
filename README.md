@@ -7,8 +7,7 @@ I have always been mesmerized by lights synced to music. I had always wanted to 
 ## Design and Implementation
 
   ### Block Diagram 
-  The following diagram outlines a very simple model for the overall system design without any specific implementation details. 
-  ![System Diagram](docs/Blank diagram.png)
+  The following diagram outlines a very simple model for the overall system design without any specific implementation details.![System Diagram](docs/Blank diagram.png)
     
   ### Parts List
   * DFRobot Audio Analyzer Module 
